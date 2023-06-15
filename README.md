@@ -1,10 +1,8 @@
-# Remotion Still Image template
+# Remotion Twibbon Video Generator
 
-A template for designing still images with dynamic data with built-in server for deploying to the cloud.
+This is a video generation service for twibbon campaign built with Remotion. This project use remotion as the primary video rendering service on the server side. Support AWS S3 as storage.
 
-<p align="center">
-    <img src="https://remotion-still.herokuapp.com/PreviewCard.jpeg?title=Still%20image%20generator&description=Dynamic%20images%20generation%20service%20with%20full%20design%20freedom&slogan=Powered%20by%0ARemotion&c=1">
-</p>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=manh21.twibbon-video-remotion)
 
 ## Commands
 
@@ -72,7 +70,7 @@ To deploy the server to Heroku, you need to add the Google Chrome Buildpack. Go 
 
 ### Deploy to DigitalOcean
 
-The easiest way to deploy to DigitalOcean is to use the dockerized image and run it on the DigitalOcean App Platform. Go to https://cloud.digitalocean.com/apps/new and connect your Github repository and deploy the
+The easiest way to deploy to DigitalOcean is to use the dockerized image and run it on the DigitalOcean App Platform. Go to <https://cloud.digitalocean.com/apps/new> and connect your Github repository and deploy the
 
 ### Serverless
 
@@ -82,14 +80,10 @@ Our serverless solution is a work in progress and will be released later in 2021
 
 Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
 
-## Help
-
-We provide help [on our Discord server](https://discord.gg/6VzzNDwUwV).
-
 ## Issues
 
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
+Found an issue with Remotion? [File an issue here](https://github.com/manh21/twibbon-video-remotion/issues/new).
 
 ## License
 
-Notice that for some entities a company license is needed. Read [the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+The Twibbon Video Generator is released under the MIT license. Please review the license file in the GitHub repository for detailed information regarding the usage and distribution of the project.
